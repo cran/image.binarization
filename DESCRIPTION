@@ -1,7 +1,7 @@
 Package: image.binarization
 Type: Package
 Title: Binarize Images for Enhancing Optical Character Recognition
-Version: 0.1.0
+Version: 0.1.1
 Maintainer: Jan Wijffels <jan.wijffels@vub.be>
 Authors@R: c(
     person('Jan', 'Wijffels', role = c('aut', 'cre', 'cph'), email = 'jan.wijffels@vub.be', comment = "R wrapper"), 
@@ -20,10 +20,10 @@ LinkingTo: Rcpp
 RoxygenNote: 7.1.0
 SystemRequirements: C++17
 NeedsCompilation: yes
-Packaged: 2020-07-20 10:30:32 UTC; Jan
+Packaged: 2020-07-30 16:14:11 UTC; Jan
 Author: Jan Wijffels [aut, cre, cph] (R wrapper),
   Vrije Universiteit Brussel - DIGI: Brussels Platform for Digital
     Humanities [cph] (R wrapper),
   Brandon M. Petty [ctb, cph] (Files in src/Doxa)
 Repository: CRAN
-Date/Publication: 2020-07-27 12:30:07 UTC
+Date/Publication: 2020-07-31 01:00:11 UTC

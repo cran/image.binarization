@@ -1,12 +1,13 @@
-3712c54135eb672bedeafc50cf790e29 *DESCRIPTION
+83df49522987d4809e755eeac5426cff *DESCRIPTION
 543e42c91d1708d2db19600387a6eb22 *LICENSE.note
 a3a7e63bc6652855a2210c7a365834bf *NAMESPACE
+bf75de77c8fb70b25f3be99b81bc8bc6 *NEWS.md
 bf045f515e24545c6d9095e212057637 *R/RcppExports.R
-4e252d0eac1719c5e3e1795880918f5f *R/image_binarization.R
+cef7605a44f27ac9ee885da9da2c5c90 *R/image_binarization.R
 19ad2572e97d7a9be6db31a45d6127ef *R/pkg.R
-4a030b299944c1769f7ff6d9448fcdc2 *README.md
+44417df38a307677f4b05c272d831c7b *README.md
 1bb4d3a04bf080dab030b0bb5853548d *inst/extdata/doxa-example.png
-8219167985da745adeafdec6c08864a4 *man/image_binarization.Rd
+608b44c80925aa15e6ce77ceca6e0ca6 *man/image_binarization.Rd
 07840e3febf18c6e1c9cc1f13250b079 *src/Doxa/Algorithm.hpp
 2b8d18fe1ee321c741fc93af1f1897f3 *src/Doxa/Bataineh.hpp
 605d082fc6f524e774ef5a05f3a2a512 *src/Doxa/Bernsen.hpp
@@ -28,7 +29,7 @@ dd81b4b8a0cba8ff302b94cde3168ce4 *src/Doxa/Nick.hpp
 b3f80894c36e82e43ab23a5a532615be *src/Doxa/Otsu.hpp
 7c7a9ec5f22dd6fb55d5c1bda8057ab0 *src/Doxa/PNM.hpp
 c1edb021c532db9b878e1aacb2e49d13 *src/Doxa/Palette.hpp
-e53abfdf85b4decb4763d81f5391fe6e *src/Doxa/Parameters.hpp
+8e78e54be8aef6ee6e2795ba0f6db834 *src/Doxa/Parameters.hpp
 ed51b0a5afa27416a52a537db1bbe43d *src/Doxa/Region.hpp
 70265425c4457243b73ceb48857010f3 *src/Doxa/Sauvola.hpp
 e6638a3413dda3795fb0640f3b3b3b14 *src/Doxa/Su.hpp
@@ -37,7 +38,7 @@ e6638a3413dda3795fb0640f3b3b3b14 *src/Doxa/Su.hpp
 c8ec88ad50a987d8d5554ace274e0136 *src/Doxa/Wan.hpp
 78cf1f9ce23377a704b197ac55444449 *src/Doxa/WeinerFilter.hpp
 cd9eb68d31f96b99f55b8245383d0b30 *src/Doxa/Wolf.hpp
-744413030af69753236c8d86f236664b *src/Makevars
+12b7517e44359db565ff68bd2f2415b4 *src/Makevars
 1e1174a7b9440cd790534382acfad63b *src/RcppExports.cpp
 5bbd37068ede2b058eed728e00754b3c *src/_rcpp_doxa.cpp
 71fa70bc9b437116bed3f5f76277a8fc *tools/example.png
