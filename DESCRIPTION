@@ -1,7 +1,7 @@
 Package: image.binarization
 Type: Package
 Title: Binarize Images for Enhancing Optical Character Recognition
-Version: 0.1.1
+Version: 0.1.2
 Maintainer: Jan Wijffels <jan.wijffels@vub.be>
 Authors@R: c(
     person('Jan', 'Wijffels', role = c('aut', 'cre', 'cph'), email = 'jan.wijffels@vub.be', comment = "R wrapper"), 
@@ -13,17 +13,16 @@ Description: Improve optical character recognition by binarizing images. The pac
 License: MPL-2.0
 URL: https://github.com/DIGI-VUB/image.binarization
 Encoding: UTF-8
-LazyData: true
 Depends: R (>= 4.0.0)
 Imports: Rcpp, magick, grDevices
 LinkingTo: Rcpp
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 SystemRequirements: C++17
 NeedsCompilation: yes
-Packaged: 2020-07-30 16:14:11 UTC; Jan
+Packaged: 2021-07-05 08:39:51 UTC; Jan
 Author: Jan Wijffels [aut, cre, cph] (R wrapper),
   Vrije Universiteit Brussel - DIGI: Brussels Platform for Digital
     Humanities [cph] (R wrapper),
   Brandon M. Petty [ctb, cph] (Files in src/Doxa)
 Repository: CRAN
-Date/Publication: 2020-07-31 01:00:11 UTC
+Date/Publication: 2021-07-05 09:20:01 UTC
